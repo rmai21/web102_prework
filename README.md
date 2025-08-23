@@ -4,7 +4,7 @@ Submitted by: Rajvi Maisuria
 
 **MonsterFunds** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **X** hours spent in total
+Time spent: **5** hours spent in total
 
 ## Required Features
 
@@ -38,7 +38,7 @@ Some challenges were understanding the concept of destructuring and spreading, h
 
 ## License
 
-    Copyright [2025] [name of copyright owner]
+    Copyright [2025] [CodePath]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
